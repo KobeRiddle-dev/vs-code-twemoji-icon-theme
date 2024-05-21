@@ -1,0 +1,471 @@
+{
+    "iconDefinitions": {
+        "folder": {
+            "iconPath": "./images/1f4c1.svg"
+        },
+        "folderExpanded": {
+            "iconPath": "./images/1f4c2.svg"
+        },
+        "regionalIndicatorC": {
+            "iconPath": "./images/1f1e8.svg"
+        },
+        "womanShrugging": {
+            "iconPath": "./images/1f937-200d-2640-fe0f.svg"
+        },
+        "dollarBanknote": {
+            "iconPath": "./images/1f4B5.svg"
+        },
+        "robot": {
+            "iconPath": "./images/1f916.svg"
+        },
+        "newspaper": {
+            "iconPath": "./images/1f4f0.svg"
+        },
+        "spiralCalendar": {
+            "iconPath": "./images/1f5d3.svg"
+        },
+        "womanJudge": {
+            "iconPath": "./images/1f469-200d-2696-fe0f.svg"
+        },
+        "womanRaisingHand": {
+            "iconPath": "./images/1f64b-200d-2640-fe0f.svg"
+        },
+        "manPoliceOfficer": {
+            "iconPath": "./images/1f46e-200d-2642-fe0f.svg"
+        },
+        "lyingFace": {
+            "iconPath": "./images/1f925.svg"
+        },
+        "smilingFaceWithSmilingEyes": {
+            "iconPath": "./images/1f60a.svg"
+        },
+        "handshake": {
+            "iconPath": "./images/1f91d.svg"
+        },
+        "writingHand": {
+            "iconPath": "./images/270d.svg"
+        },
+        "thumbsUp": {
+            "iconPath": "./images/1f44d.svg"
+        },
+        "redExclamationMark": {
+            "iconPath": "./images/2757.svg"
+        },
+        "lightBulb": {
+            "iconPath": "./images/1f4a1.svg"
+        },
+        "openBook": {
+            "iconPath": "./images/1f4d6.svg"
+        },
+        "radioButton": {
+            "iconPath": "./images/1f518.svg"
+        },
+        "gear": {
+            "iconPath": "./images/2699.svg"
+        },
+        "rocket": {
+            "iconPath": "./images/1f680.svg"
+        },
+        "clipboard": {
+            "iconPath": "./images/1f4Cb.svg"
+        },
+        "shoppingCart": {
+            "iconPath": "./images/1f6d2.svg"
+        },
+        "package": {
+            "iconPath": "./images/1f4e6.svg"
+        },
+        "locked": {
+            "iconPath": "./images/1f512.svg"
+        },
+        "sponge": {
+            "iconPath": "./images/1f9fd.svg"
+        },
+        "joker": {
+            "iconPath": "./images/1f0cf.svg"
+        },
+        "performingArts": {
+            "iconPath": "./images/1f3ad.svg"
+        },
+        "shootingStar": {
+            "iconPath": "./images/1f320.svg"
+        },
+        "spoutingWhale": {
+            "iconPath": "./images/1f433.svg"
+        },
+        "manConstructionWorker": {
+            "iconPath": "./images/1f477-200d-2642-fe0f.svg"
+        },
+        "fire": {
+            "iconPath": "./images/1f525.svg"
+        },
+        "ice": {
+            "iconPath": "./images/1f9ca.svg"
+        },
+        "snowflake": {
+            "iconPath": "./images/2744.svg"
+        },
+        "womanScientist": {
+            "iconPath": "./images/1f469-200d-1f52c.svg"
+        },
+        "astronaut": {
+            "iconPath": "./images/1f9d1-200d-1f680.svg"
+        },
+        "flagNewZealand": {
+            "iconPath": "./images/1f1f3-1f1ff.svg"
+        },
+        "flagAustralia": {
+            "iconPath": "./images/1f1e6-1f1fa.svg"
+        },
+        "flagChina": {
+            "iconPath": "./images/1f1e8-1f1f3.svg"
+        },
+        "flagUnitedStates": {
+            "iconPath": "./images/1f1fa-1f1f8.svg"
+        },
+        "flagCanada": {
+            "iconPath": "./images/1f1e8-1f1e6.svg"
+        },
+        "flagUK": {
+            "iconPath": "./images/1f1eC-1f1e7.svg"
+        },
+        "flagGermany": {
+            "iconPath": "./images/1f1e9-1f1ea.svg"
+        },
+        "flagFrance": {
+            "iconPath": "./images/1f1eb-1f1f7.svg"
+        },
+        "flagIreland": {
+            "iconPath": "./images/1f1ee-1f1ea.svg"
+        },
+        "pageFacingUp": {
+            "iconPath": "./images/1f4c4.svg"
+        },
+        "memo": {
+            "iconPath": "./images/1f4dd.svg"
+        },
+        "floppyDisk": {
+            "iconPath": "./images/1f4be.svg"
+        },
+        "greenBook": {
+            "iconPath": "./images/1f4d7.svg"
+        },
+        "closedBook": {
+            "iconPath": "./images/1f4d5.svg"
+        },
+        "spiralShell": {
+            "iconPath": "./images/1f41a.svg"
+        },
+        "flamingo": {
+            "iconPath": "./images/1f9a9.svg"
+        },
+        "gemStone": {
+            "iconPath": "./images/1f48e.svg"
+        },
+        "crab": {
+            "iconPath": "./images/1f980.svg"
+        },
+        "beaver": {
+            "iconPath": "./images/1f9ab.svg"
+        },
+        "snake": {
+            "iconPath": "./images/1f40d.svg"
+        },
+        "worm": {
+            "iconPath": "./images/1fab1.svg"
+        },
+        "notebook": {
+            "iconPath": "./images/1f4d3.svg"
+        },
+        "egg": {
+            "iconPath": "./images/1f95a.svg"
+        },
+        "wheel": {
+            "iconPath": "./images/1f6de.svg"
+        },
+        "hotBeverage": {
+            "iconPath": "./images/2615.svg"
+        },
+        "jack-O-Lantern": {
+            "iconPath": "./images/1f383.svg"
+        },
+        "jar": {
+            "iconPath": "./images/1fad9.svg"
+        },
+        "regionalIndicatorH": {
+            "iconPath": "./images/1f1ed.svg"
+        },
+        "keyCap#": {
+            "iconPath": "./images/0023-fe0f-20e3.svg"
+        },
+        "inputLatinUppercase": {
+            "iconPath": "./images/1f520.svg"
+        },
+        "stopButton": {
+            "iconPath": "./images/23f9.svg"
+        },
+        "regionalIndicatorO": {
+            "iconPath": "./images/1f1f4.svg"
+        },
+        "inputSymbols": {
+            "iconPath": "./images/1f523.svg"
+        },
+        "nailPolish": {
+            "iconPath": "./images/1f485.svg"
+        },
+        "evergreenTree": {
+            "iconPath": "./images/1f332.svg"
+        },
+        "guideDog": {
+            "iconPath": "./images/1f9ae.svg"
+        },
+        "blueBook": {
+            "iconPath": "./images/1f4d8.svg"
+        },
+        "ledger": {
+            "iconPath": "./images/1f4d2.svg"
+        },
+        "atomSymbol": {
+            "iconPath": "./images/269b.svg"
+        },
+        "globeShowingAsia-Australia": {
+            "iconPath": "./images/1f30f.svg"
+        },
+        "oilDrum": {
+            "iconPath": "./images/1f6e2.svg"
+        },
+        "cookie": {
+            "iconPath": "./images/1f36a.svg"
+        },
+        "books": {
+            "iconPath": "./images/1f4da.svg"
+        },
+        "zipper-mouthFace": {
+            "iconPath": "./images/1f910.svg"
+        },
+        "chartIncreasing": {
+            "iconPath": "./images/1f4c8.svg"
+        },
+        "hourglassNotDone": {
+            "iconPath": "./images/23f3.svg"
+        },
+        "opticalDisk": {
+            "iconPath": "./images/1f4bf.svg"
+        },
+        "worldMap": {
+            "iconPath": "./images/1f5fa.svg"
+        },
+        "barChart": {
+            "iconPath": "./images/1f4ca.svg"
+        },
+        "nationalPark": {
+            "iconPath": "./images/1f3de.svg"
+        },
+        "womanDancing": {
+            "iconPath": "./images/1f483.svg"
+        },
+        "camera": {
+            "iconPath": "./images/1f4f7.svg"
+        },
+        "artistPalette": {
+            "iconPath": "./images/1f3a8.svg"
+        },
+        "filmFrames": {
+            "iconPath": "./images/1f39e.svg"
+        },
+        "speakerHighVolume": {
+            "iconPath": "./images/1f50a.svg"
+        },
+        "house": {
+            "iconPath": "./images/1f3e0.svg"
+        },
+        "downArrow": {
+            "iconPath": "./images/2b07.svg"
+        },
+        "bookmarkTabs": {
+            "iconPath": "./images/1f4d1.svg"
+        },
+        "classicalBuilding": {
+            "iconPath": "./images/1f3db.svg"
+        },
+        "bustInSilhouette": {
+            "iconPath": "./images/1f464.svg"
+        },
+        "herb": {
+            "iconPath": "./images/1f33f.svg"
+        },
+        "technologist": {
+            "iconPath": "./images/1f9d1-200d-1f4bb.svg"
+        },
+        "highVoltage": {
+            "iconPath": "./images/26a1.svg"
+        },
+        "laptop": {
+            "iconPath": "./images/1f4bb.svg"
+        },
+        "desertIsland": {
+            "iconPath": "./images/1f3dd.svg"
+        },
+        "camping": {
+            "iconPath": "./images/1f3d5.svg"
+        },
+        "desert": {
+            "iconPath": "./images/1f3dc.svg"
+        },
+        "testTube": {
+            "iconPath": "./images/1f9ea.svg"
+        },
+        "hammer": {
+            "iconPath": "./images/1f528.svg"
+        },
+        "bank": {
+            "iconPath": "./images/1f3e6.svg"
+        },
+        "potableWater": {
+            "iconPath": "./images/1f6b0.svg"
+        },
+        "tent": {
+            "iconPath": "./images/26fa.svg"
+        },
+        "brick": {
+            "iconPath": "./images/1f9f1.svg"
+        },
+        "hammerAndWrench": {
+            "iconPath": "./images/1f6e0.svg"
+        },
+        "eyes": {
+            "iconPath": "./images/1f440.svg"
+        },
+        "television": {
+            "iconPath": "./images/1f4fa.svg"
+        },
+        "manShrugging": {
+            "iconPath": "./images/1f937-200d-2642-fe0f.svg"
+        },
+        "airplaneArrival": {
+            "iconPath": "./images/1f6ec.svg"
+        },
+        "teapot": {
+            "iconPath": "./images/1fad6.svg"
+        },
+        "unlocked": {
+            "iconPath": "./images/1f513.svg"
+        },
+        "lockedWithKey": {
+            "iconPath": "./images/1f510.svg"
+        },
+        "disguisedFace": {
+            "iconPath": "./images/1f978.svg"
+        },
+        "fishingPole": {
+            "iconPath": "./images/1f3a3.svg"
+        },
+        "fileCabinet": {
+            "iconPath": "./images/1f5c4.svg"
+        },
+        "magnifyingGlassRightTilt": {
+            "iconPath": "./images/1f50e.svg"
+        },
+        "manDetective": {
+            "iconPath": "./images/1f575-fe0f-200d-2642-fe0f.svg"
+        },
+        "unlinkedPaperClips": {
+            "iconPath": "./images/1f587.svg"
+        },
+        "scroll": {
+            "iconPath": "./images/1f4dc.svg"
+        },
+        "label": {
+            "iconPath": "./images/1f3f7.svg"
+        },
+        "notebookWithADecorativeCover": {
+            "iconPath": "./images/1f4d4.svg"
+        },
+        "bookmark": {
+            "iconPath": "./images/1f516.svg"
+        },
+        "orangeBook": {
+            "iconPath": "./images/1f4d9.svg"
+        },
+        "receipt": {
+            "iconPath": "./images/1f9fe.svg"
+        },
+        "satelliteAntenna": {
+            "iconPath": "./images/1f4e1.svg"
+        },
+        "satellite": {
+            "iconPath": "./images/1f6f0.svg"
+        },
+        "cloud": {
+            "iconPath": "./images/2601.svg"
+        },
+        "warning": {
+            "iconPath": "./images/26a0.svg"
+        },
+        "policeCarLight": {
+            "iconPath": "./images/1f6a8.svg"
+        },
+        "ladyBeetle": {
+            "iconPath": "./images/1f41e.svg"
+        },
+        "pushpin": {
+            "iconPath": "./images/1f4cc.svg"
+        },
+        "speechBalloon": {
+            "iconPath": "./images/1f4ac.svg"
+        },
+        "readHeart": {
+            "iconPath": "./images/2764.svg"
+        },
+        "star": {
+            "iconPath": "./images/2b50.svg"
+        },
+        "key": {
+            "iconPath": "./images/1f511.svg"
+        },
+        "plug": {
+            "iconPath": "./images/1f50c.svg"
+        },
+        "mutedSpeaker": {
+            "iconPath": "./images/1f507.svg"
+        },
+        "briefcase": {
+            "iconPath": "./images/1f4bc.svg"
+        },
+        "compass": {
+            "iconPath": "./images/1f9ed.svg"
+        },
+        "creditCard": {
+            "iconPath": "./images/1f4b3.svg"
+        },
+        "wrappedGift": {
+            "iconPath": "./images/1f381.svg"
+        },
+        "inboxTray": {
+            "iconPath": "./images/1f4e5.svg"
+        },
+        "balanceScale": {
+            "iconPath": "./images/2696.svg"
+        },
+        "link": {
+            "iconPath": "./images/1f517.svg"
+        },
+        "magnet": {
+            "iconPath": "./images/1f9f2.svg"
+        },
+        "envelope": {
+            "iconPath": "./images/2709.svg"
+        },
+        "plus":{
+            "iconPath": "./images/2795.svg"
+        }
+        //   All icons to until "megaphone" from Emoji File Icons
+    },
+    "fileExtensions": {
+        "c": "regionalIndicatorC",
+        "cpp": "plus",
+        "h": "regionalIndicatorH",
+        "java": "hotBeverage",
+        "cs": "keyCap#",
+    }
+}
