@@ -1,0 +1,1 @@
+# vs-code-twemoji-icon-theme
