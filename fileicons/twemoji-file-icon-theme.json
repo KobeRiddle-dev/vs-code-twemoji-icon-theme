@@ -456,16 +456,237 @@
         "envelope": {
             "iconPath": "./images/2709.svg"
         },
-        "plus":{
+        "plus": {
             "iconPath": "./images/2795.svg"
         }
         //   All icons to until "megaphone" from Emoji File Icons
     },
+    "file": "pageFacingUp",
     "fileExtensions": {
+        ".txt:": "memo",
+        ".json": "floppyDisk",
+        ".csv": "greenBook",
+        ".pdf": "closedBook",
+        ".md": "books",
+        ".zip": "zipper-mouthFace",
+        ".tar.gz": "zipper-mouthFace",
+        ".yml": "rocket",
+        ".yaml": "rocket",
+        ".env": "gear",
+        ".cfg": "gear",
+        ".config": "gear",
+        
+        // programming
+        ".sh": "spiralShell",
+        ".zsh": "spiralShell",
+        ".bash": "spiralShell",
+        ".cmd": "spiralShell",
+        ".bat": "spiralShell",
+        ".ps1": "spiralShell",
+        ".swift": "flamingo",
+        ".rb": "gemStone",
+        ".rs": "crab",
+        ".go": "beaver",
+        
+        // python
+        ".py": "snake",
+        ".py3": "snake",
+        ".pyi": "worm",
+        ".ipynb": "notebook",
+        ".egg": "egg",
+        ".whl": "wheel",
+        
+        // Java
+        ".java": "hotBeverage",
+        ".class": "jack-o-lantern",
+        ".jar": "jar",
+        
+        // C, C++
         "c": "regionalIndicatorC",
         "cpp": "plus",
         "h": "regionalIndicatorH",
-        "java": "hotBeverage",
+        "hpp": "regionalIndicatorH",
+        // C#
         "cs": "keyCap#",
+        ".csproj": "manConstructionWorker",
+        
+        // assembly
+        ".asm": "inputLatinUppercase",
+        ".obj": "regionalIndicatorO",
+        ".o": "regionalIndicatorO",
+        ".sym": "inputSymbols",
+        
+        // typescript/javascript
+        ".styles.ts": "nailPolish",
+        ".styles.js": "nailPolish",
+        ".cy.ts": "evergreenTree",
+        ".cy.js": "evergreenTree",
+        "helpers.ts": "guideDog",
+        "helpers.js": "guideDog",
+        ".ts": "blueBook",
+        ".js": "ledger",
+        
+        // react
+        ".tsx": "atomSymbol",
+        ".jsx": "atomSymbol",
+        
+        // web
+        ".html": "globeShowingAsia-Australia",
+        ".css": "nailPolish",
+        ".scss": "nailPolish",
+        ".cookie": "cookie",
+        
+        // databases
+        ".db": "oilDrum",
+        ".sql": "oilDrum",
+        ".sqlite": "oilDrum",
+        ".sqlite3": "oilDrum",
+        ".mysql": "oilDrum",
+        ".postgresql": "oilDrum",
+        
+        // R
+        ".r": "chartIncreasing",
+        ".rmd": "notebook",
+        ".rhistory": "hourglassNotDone",
+        ".rprofile": "gear",
+        ".rproj": "manConstructionWorker",
+        ".rdata": "floppyDisk",
+        ".rds": "floppyDisk",
+        ".qmd": "blueBook",
+        
+        // misc
+        ".ini": "gear",
+        ".iso": "opticalDisk",
+        ".log": "clipboard",
+        ".map": "worldMap",
+        ".lock": "locked",
+        ".stats": "barChart",
+        ".todo": "radioButton",
+        
+        // images
+        ".png": "nationalPark",
+        ".jpg": "nationalPark",
+        ".jpeg": "nationalPark",
+        ".gif": "womanDancing",
+        ".heif": "camera",
+        ".svg": "artistPalette",
+        
+        // media
+        ".mp4": "filmFrames",
+        ".mov": "filmFrames",
+        ".mp3": "speakerHighVolume",
+        ".wav": "speakerHighVolume",
+    },
+    "fileNames": {
+        // git and github
+        ".gitignore": "womanShrugging",
+        "FUNDING.yml": "dollarBanknote",
+        "dependabot.yml": "robot",
+        // docs
+        "README.md": "newspaper",
+        "README.txt": "newspaper",
+        "README.rst": "newspaper",
+        "README": "newspaper",
+        "CHANGELOG.md": "spiralCalendar",
+        "CHANGELOG.txt": "spiralCalendar",
+        "CHANGELOG": "spiralCalendar",
+        "LICENSE.md": "womanJudge",
+        "LICENSE.txt": "womanJudge",
+        "LICENSE.rst": "womanJudge",
+        "LICENSE": "womanJudge",
+        "SUPPORT.md": "womanRaisingHand",
+        "SUPPORT.txt": "womanRaisingHand",
+        "SUPPORT": "womanRaisingHand",
+        "SECURITY.md": "manPoliceOfficer",
+        "SECURITY.txt": "manPoliceOfficer",
+        "SECURITY": "manPoliceOfficer",
+        "CODE_OF_CONDUCT.md": "lyingFace",
+        "CODE_OF_CONDUCT": "lyingFace",
+        "CONTRIBUTING.md": "smilingFaceWithSmilingEyes",
+        "CONTRIBUTING": "smilingFaceWithSmilingEyes",
+        "CONTRIBUTORS.md": "handshake",
+        "CONTRIBUTORS": "handshake",
+        "AUTHORS.md": "writingHand",
+        "AUTHORS": "writingHand",
+        "ACKNOWLEDGMENTS.md": "thumbsUp",
+        "ACKNOWLEDGMENTS": "thumbsUp",
+        "ISSUE_TEMPLATE.md": "redExclamationMark",
+        "ISSUE_TEMPLATE": "redExclamationMark",
+        "PULL_REQUEST_TEMPLATE.md": "lightBulb",
+        "PULL_REQUEST_TEMPLATE": "lightBulb",
+        "CITATION.cff": "openBook",
+        "ideas.md": "lightBulb",
+        "ideas.txt": "lightBulb",
+        "ideas": "lightBulb",
+        "todo.md": "radioButton",
+        "todo.txt": "radioButton",
+        "todo": "radioButton",
+        // vscode
+        ".vscode/settings.json": "gear",
+        "vscode/launch.json": "rocket",
+        ".vscode/tasks.json": "clipboard",
+        ".vscode/extensions.json": "shoppingCart",
+        ".vscodeignore": "womanShrugging",
+        // node
+        "package.json": "package",
+        "package-lock.json": "locked",
+        ".npmrc": "gear",
+        ".npmignore": "womanShrugging",
+        ".esclintrc.json": "sponge",
+        "tsconfig.json": "gear",
+        "jest.config.ts": "joker",
+        "jest.config.js": "joker",
+        "playwright.config.ts": "performingArts",
+        "playwright.config.js": "performingArts",
+        // web
+        "favicon.ico": "shootingStar",
+        "robots.txt": "robot",
+        // application
+        "DOCKERFILE": "spoutingWhale",
+        "Makefile": "manConstructionWorker",
+        ".firebaserc": "fire",
+        "firebase.json": "fire",
+        "requirements.txt": "shoppingCart",
+        "requirements": "shoppingCart",
+        "py.typed": "ice",
+        "pyproject.toml": "gear",
+        ".flake8": "snowflake",
+        // config
+        "config.json": "gear",
+        ".env.test": "womanScientist",
+        ".env.development": "manConstructionWorker",
+        ".env.production": "astronaut",
+        ".env.NZ": "flagNewZealand",
+        ".env.AU": "flagAustralia",
+        ".env.CN": "flagChina",
+        ".env.US": "flagUnitedStates",
+        ".env.CA": "flagCanada",
+        ".env.UK": "flagUK",
+        ".env.DE": "flagGermany",
+        ".env.FR": "flagFrance",
+        ".env.IE": "flagIreland",
+    },
+    "folder": "folder",
+    "folderExpanded": "folderExpanded",
+    "folderNames": {
+        "home": "house",
+        "downloads": "downArrow",
+        "documents": "bookmarkTabs",
+        "lib": "classicalBuilding",
+        "library": "classicalBuilding",
+        "user": "bustInSilhouette",
+        "users": "bustInSilhouette",
+        "images": "shootingStar",
+        "pic": "shootingStar",
+        "pictures": "shootingStar",
+        "docs": "books",
+        "doc": "books",
+        ".git": "herb",
+        ".github": "technologist",
+        ".github/workflows": "highVoltage",
+        "PULL_REQUEST_TEMPLATE": "lightBulb",
+        ".vscode": "laptop",
+        "node_modules": "package",
+        
     }
 }
