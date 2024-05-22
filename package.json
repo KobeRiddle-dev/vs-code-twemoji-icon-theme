@@ -3,6 +3,10 @@
   "displayName": "Twemoji File Icons",
   "description": "Inspired by Emoji File Icons by mightbesimon. I like the Twemoji icons, as featured in discord, so I made this file icon theme.",
   "version": "0.0.1",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/KobeRiddle-dev/vs-code-twemoji-icon-theme"
+	},
   "engines": {
     "vscode": "^1.89.0"
   },
