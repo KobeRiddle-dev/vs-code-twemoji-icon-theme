@@ -7,7 +7,7 @@
     "vscode": "^1.89.0"
   },
   "categories": [
-    "Other"
+    "Themes"
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
@@ -16,7 +16,7 @@
       {
         "id": "twemoji-file-icons",
         "label": "Twemoji File Icons",
-        "path": "./fileicons/twemoji-file-icon-them.json"
+        "path": "./twemoji-file-icon-theme.json"
       }
     ]
   },
